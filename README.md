@@ -58,7 +58,8 @@ PM2.5 refers to fine particulate matter with a diameter of 2.5 micrometers or sm
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]([Air Qua;ity Monitoring Dashboard.png](https://github.com/sai-sp/Air-Quality-Monitoring-Dashboard/blob/374a1fcb4443a43e8b6b991ab46486eb1c7950ba/Air%20Qua%3Bity%20Monitoring%20Dashboard.png))
+![Air Quality Dashboard](https://raw.githubusercontent.com/sai-sp/Air-Quality-Monitoring-Dashboard/main/Air%20Qua%3Bity%20Monitoring%20Dashboard.png)
+
 
 
 
